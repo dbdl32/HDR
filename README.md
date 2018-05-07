@@ -1,5 +1,5 @@
 # HDR
-This project is for deghosting in HDR imging method.
+This project is used for deghosting artifacts in HDR imging method.
 
 At first, we select a reference image with most well-exposed pixels. Then we 
 use both color mapping and patchmatch to generate some latent imagess. In the
